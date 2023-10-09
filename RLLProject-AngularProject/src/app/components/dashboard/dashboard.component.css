@@ -1,0 +1,31 @@
+h3,
+h4 {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 15px;
+  margin-bottom: 20px;
+}
+
+ul {
+  margin-top: 20px;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+.bold-action {
+  font-size: 1.1em;
+  margin-top: 30px;
+}
+
+.action-link {
+  font-weight: bold;
+  color: #007bff; /* or any other color you want */
+  text-decoration: underline;
+}
+
+hr {
+  border-top: 2px solid #eee;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}

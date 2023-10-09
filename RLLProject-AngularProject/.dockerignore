@@ -1,0 +1,29 @@
+# Files and directories to exclude from the Docker context
+
+# Node.js modules and npm-related files
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Build output
+dist/
+output/
+out-tsc/
+
+# Git-related files
+.git/
+.gitignore
+
+# Development and testing files
+*.spec.ts
+src/**/*.spec.ts
+e2e/
+
+# Miscellaneous
+*.log
+*.md
+.DS_Store
